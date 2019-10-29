@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 # Changelog
 These are the release notes for the TextMesh Pro UPM package which was first introduced with Unity 2018.1. Please see the following link for the Release Notes for prior versions of TextMesh Pro. http://digitalnativestudios.com/forum/index.php?topic=1363.0
 
@@ -178,6 +181,8 @@ These are the release notes for the TextMesh Pro UPM package which was first int
 - New menu option added to Import Examples and additional content like Font Assets, Materials Presets, etc for TextMesh Pro. This new menu option is located in "Window -> TextMeshPro -> Import Examples and Extra Content".
 - New menu option added to Convert existing project files and assets created with either the Source Code or DLL only version of TextMesh Pro. Please be sure to backup your project before using this option. The new menu option is located in "Window -> TextMeshPro -> Project Files GUID Remapping Tool".
 - Added Assembly Definitions for the TMP Runtime and Editor scripts.
+<<<<<<< HEAD
+=======
 =======
 # Changelog
 These are the release notes for the TextMesh Pro UPM package which was first introduced with Unity 2018.1. Please see the following link for the Release Notes for prior versions of TextMesh Pro. http://digitalnativestudios.com/forum/index.php?topic=1363.0
@@ -359,4 +364,5 @@ These are the release notes for the TextMesh Pro UPM package which was first int
 - New menu option added to Convert existing project files and assets created with either the Source Code or DLL only version of TextMesh Pro. Please be sure to backup your project before using this option. The new menu option is located in "Window -> TextMeshPro -> Project Files GUID Remapping Tool".
 - Added Assembly Definitions for the TMP Runtime and Editor scripts.
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 - Added support for the UI DirtyLayoutCallback, DirtyVerticesCallback and DirtyMaterialCallback.

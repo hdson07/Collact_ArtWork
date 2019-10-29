@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 ﻿#if UNITY_EDITOR
 
 using System.Collections.Generic;
@@ -141,6 +144,8 @@ namespace TMPro
     }
 }
 #endif
+<<<<<<< HEAD
+=======
 =======
 ﻿#if UNITY_EDITOR
 
@@ -285,3 +290,4 @@ namespace TMPro
 }
 #endif
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

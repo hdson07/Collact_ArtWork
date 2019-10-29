@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 using System;
 using System.ComponentModel;
 using System.IO;
@@ -64,6 +67,8 @@ namespace Packages.Rider.Editor.Util
              || SystemInfo.operatingSystemFamily != OperatingSystemFamily.MacOSX && new FileInfo(editorPath).Exists;
     }
   }
+<<<<<<< HEAD
+=======
 =======
 using System;
 using System.ComponentModel;
@@ -131,4 +136,5 @@ namespace Packages.Rider.Editor.Util
     }
   }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

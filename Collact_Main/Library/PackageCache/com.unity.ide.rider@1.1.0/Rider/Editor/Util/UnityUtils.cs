@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 using System;
 using System.Linq;
 using UnityEngine;
@@ -18,6 +21,8 @@ namespace Packages.Rider.Editor.Util
       }
     }
   }
+<<<<<<< HEAD
+=======
 =======
 using System;
 using System.Linq;
@@ -39,4 +44,5 @@ namespace Packages.Rider.Editor.Util
     }
   }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

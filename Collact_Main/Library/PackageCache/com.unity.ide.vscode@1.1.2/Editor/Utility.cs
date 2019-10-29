@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 namespace VSCodeEditor
 {
     public static class Utility
@@ -33,6 +36,8 @@ namespace VSCodeEditor
             return path.Substring(indexOfSlash, indexOfDot - indexOfSlash);
         }
     }
+<<<<<<< HEAD
+=======
 =======
 namespace VSCodeEditor
 {
@@ -69,4 +74,5 @@ namespace VSCodeEditor
         }
     }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

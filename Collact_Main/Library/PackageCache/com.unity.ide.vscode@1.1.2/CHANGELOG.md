@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 # Code Editor Package for Visual Studio Code
 
 ## [1.1.2] - 2019-08-30
@@ -44,6 +47,8 @@ Add %LOCALAPPDATA%/Programs to the path of install paths.
 ### This is the first release of *Unity Package vscode_editor*.
 
 Using the newly created api to integrate Visual Studio Code with Unity.
+<<<<<<< HEAD
+=======
 =======
 # Code Editor Package for Visual Studio Code
 
@@ -91,3 +96,4 @@ Add %LOCALAPPDATA%/Programs to the path of install paths.
 
 Using the newly created api to integrate Visual Studio Code with Unity.
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

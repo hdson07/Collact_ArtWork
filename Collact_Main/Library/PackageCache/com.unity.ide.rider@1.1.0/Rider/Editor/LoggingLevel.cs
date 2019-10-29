@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 namespace Packages.Rider.Editor
 {
   public enum LoggingLevel
@@ -20,6 +23,8 @@ namespace Packages.Rider.Editor
     /// <summary>Methods &amp; callstacks tracing, more than verbose</summary>
     TRACE,
   }
+<<<<<<< HEAD
+=======
 =======
 namespace Packages.Rider.Editor
 {
@@ -43,4 +48,5 @@ namespace Packages.Rider.Editor
     TRACE,
   }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

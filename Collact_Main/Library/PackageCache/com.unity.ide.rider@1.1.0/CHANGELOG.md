@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 # Code Editor Package for Rider
 
 ## [1.1.0] - 2019-07-02
@@ -42,6 +45,8 @@ Fixing null reference issue for callbacks to Asset pipeline.
 ### This is the first release of *Unity Package rider_editor*.
 
 Using the newly created api to integrate Rider with Unity.
+<<<<<<< HEAD
+=======
 =======
 # Code Editor Package for Rider
 
@@ -87,3 +92,4 @@ Fixing null reference issue for callbacks to Asset pipeline.
 
 Using the newly created api to integrate Rider with Unity.
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

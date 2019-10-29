@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -416,6 +419,8 @@ namespace Packages.Rider.Editor
       }
     }
   }
+<<<<<<< HEAD
+=======
 =======
 using System;
 using System.Collections.Generic;
@@ -835,4 +840,5 @@ namespace Packages.Rider.Editor
     }
   }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

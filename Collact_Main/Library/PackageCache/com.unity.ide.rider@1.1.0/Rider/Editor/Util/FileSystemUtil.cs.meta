@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 fileFormatVersion: 2
 guid: bdbd564a9fdad0b738e76d030cad1204
 MonoImporter:
@@ -10,6 +13,8 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< HEAD
+=======
 =======
 fileFormatVersion: 2
 guid: bdbd564a9fdad0b738e76d030cad1204
@@ -23,3 +28,4 @@ MonoImporter:
   assetBundleName: 
   assetBundleVariant: 
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

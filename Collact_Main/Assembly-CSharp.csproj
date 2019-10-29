@@ -63,6 +63,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Assets\Ipad_UI_Script\SceneManager.cs" />
+    <Compile Include="Assets\Ipad_UI_Script\slideManager.cs" />
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+=======
     <Compile Include="Assets\Origin_color.cs" />
     <Compile Include="Assets\saturation_controller.cs" />
     <Reference Include="Unity.Timeline.Editor">
@@ -71,12 +87,15 @@
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
+>>>>>>> master
     <Reference Include="Unity.Timeline">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
@@ -89,6 +108,7 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
+>>>>>>> master
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -98,6 +118,15 @@
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+=======
+>>>>>>> master
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/HUHJIHO/Desktop/collact/Collact_Main/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>

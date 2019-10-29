@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 using System;
 using System.IO;
 using System.Linq;
@@ -252,6 +255,8 @@ namespace VSCodeEditor {
         }
     }
 }
+<<<<<<< HEAD
+=======
 =======
 using System;
 using System.IO;
@@ -507,3 +512,4 @@ namespace VSCodeEditor {
     }
 }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

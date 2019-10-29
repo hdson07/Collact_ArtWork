@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 using System.Reflection;
 using Unity.CodeEditor;
 using UnityEditor;
@@ -151,6 +154,8 @@ namespace Packages.Rider.Editor
         Application.OpenURL(url);
     }
   }
+<<<<<<< HEAD
+=======
 =======
 using System.Reflection;
 using Unity.CodeEditor;
@@ -305,4 +310,5 @@ namespace Packages.Rider.Editor
     }
   }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

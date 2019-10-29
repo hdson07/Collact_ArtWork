@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
@@ -135,6 +138,8 @@ namespace VSCodeEditor
         }
     }
 }
+<<<<<<< HEAD
+=======
 =======
 ﻿using System;
 using System.Collections.Generic;
@@ -273,3 +278,4 @@ namespace VSCodeEditor
     }
 }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master

@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 ﻿//#define TMP_DEBUG_MODE
 
 using System;
@@ -4147,6 +4150,8 @@ namespace TMPro
             return true;
         }
     }
+<<<<<<< HEAD
+=======
 =======
 ﻿//#define TMP_DEBUG_MODE
 
@@ -8297,4 +8302,5 @@ namespace TMPro
         }
     }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 }

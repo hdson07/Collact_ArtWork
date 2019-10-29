@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 {
   "name": "com.unity.textmeshpro",
   "displayName": "TextMesh Pro",
@@ -20,6 +23,8 @@
     "revision": "dcedac21"
   }
 }
+<<<<<<< HEAD
+=======
 =======
 {
   "name": "com.unity.textmeshpro",
@@ -43,3 +48,4 @@
   }
 }
 >>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
