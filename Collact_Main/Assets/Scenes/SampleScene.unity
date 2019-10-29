@@ -6859,6 +6859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2920382675980048276}
   - component: {fileID: 606208414098573227}
+  - component: {fileID: 5038760934193222144}
   m_Layer: 0
   m_Name: bag
   m_TagString: Untagged
@@ -6866,6 +6867,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &5038760934193222144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5038760934193222143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598f653d097284d45baec50b862e0e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  altColor: {r: 0, g: 0, b: 0, a: 0}
+  rend: {fileID: 0}
+  field: 5
 --- !u!4 &5246287522356575180
 Transform:
   m_ObjectHideFlags: 0
@@ -7030,6 +7046,7 @@ GameObject:
   m_Component:
   - component: {fileID: 584973894412214132}
   - component: {fileID: 9068704952350297203}
+  - component: {fileID: 6184049413188253029}
   m_Layer: 0
   m_Name: Cloth_shadow
   m_TagString: Untagged
@@ -7037,6 +7054,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &6184049413188253029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6184049413188253028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598f653d097284d45baec50b862e0e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  altColor: {r: 0, g: 0, b: 0, a: 0}
+  rend: {fileID: 0}
+  field: 5
 --- !u!4 &6198656599649735915
 Transform:
   m_ObjectHideFlags: 0
@@ -7123,6 +7155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 19632434710286943}
   - component: {fileID: 1265641663108927806}
+  - component: {fileID: 6745363913301477444}
   m_Layer: 0
   m_Name: Cloth_jacket
   m_TagString: Untagged
@@ -7130,6 +7163,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &6745363913301477444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6745363913301477443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75dc4f20388e044a482701f100f904f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  altColor: {r: 0, g: 0, b: 0, a: 1}
+  rend: {fileID: 0}
+  field: 5
 --- !u!4 &6748021208057442107
 Transform:
   m_ObjectHideFlags: 0
@@ -7186,6 +7234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3141901206258673138}
   - component: {fileID: 1513352703774083142}
+  - component: {fileID: 7199902335245143205}
   m_Layer: 0
   m_Name: head
   m_TagString: Untagged
@@ -7193,6 +7242,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &7199902335245143205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7199902335245143204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598f653d097284d45baec50b862e0e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  altColor: {r: 0, g: 0, b: 0, a: 0}
+  rend: {fileID: 0}
+  field: 5
 --- !u!1 &7269281076812497127
 GameObject:
   m_ObjectHideFlags: 0

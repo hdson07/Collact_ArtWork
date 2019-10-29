@@ -1,6 +1,20 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 root = true
 
 [*]
 indent_style = space
 indent_size = 2
+<<<<<<< HEAD
+=======
+=======
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+>>>>>>> ee8cad548e0c46c07d6428cc26597e2b0d6b6da5
+>>>>>>> master
 end_of_line = lf
