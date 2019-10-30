@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - head
+  - HeadPosition
+  - bag
+  - cloth_jacket
+  - cloth_shadow
+  - body
+  - HeadPositionTop
+  - createdChar
   layers:
   - Default
   - TransparentFX

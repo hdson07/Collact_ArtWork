@@ -20,9 +20,14 @@ public class SceneManager : MonoBehaviour
     private float saturation;
     private int year;
     private string player_name;
+    private CreatController CreatScript;
+    private GameObject CreatedChar;
 
     void Awake()
     {
+        CreatedChar = GameObject.FindGameObjectWithTag("createdChar");
+        CreatScript = CreatedChar.GetComponent<CreatController>();
+
         canvases[0].SetActive(true);
 
         for (int i = 1; i < 6; i++)
@@ -37,6 +42,14 @@ public class SceneManager : MonoBehaviour
         if (current == 4)
         {
             saturation = (slider.value) / 100;
+
+            //we have to embeded this part to changing saturation realtime
+            CreatScript.saturation = saturation;
+            CreatScript.changeJacketColor();
+            //
+ 
+            
+
         }
         if (current == 5)
         {
@@ -63,6 +76,8 @@ public class SceneManager : MonoBehaviour
     public void head_color_button(int btnNum)
     {
         field = btnNum;
+        CreatScript.field = this.field;
+        CreatScript.create(field);
         Debug.Log(field);
     }
 
